@@ -11,3 +11,8 @@ gen
 .idea/inspectionProfiles/
 eureka-consumer/src/main/resources/static/
 eureka-consumer/src/main/resources/templates/
+
+/mvnw.cmd
+/.mvn/
+/mvnw
+*.gitignore
