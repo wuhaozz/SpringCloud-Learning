@@ -5,8 +5,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/wuhaozz/SpringCloud-Learning/tree/master/config-server-git/config-repo/
-#          search-paths: repo
+          uri: https://github.com/wuhaozz/SpringCloud-Learning/
+          search-paths: config-server-git/config-repo
 #          username:
 #          password:
 #如果我们的Git仓库需要权限访问，那么可以通过配置下面的两个属性来实现；
